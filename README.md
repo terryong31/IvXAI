@@ -64,10 +64,10 @@
 
 ## 📁 File Structure
 
-- IvXAI.py              # Main script
-- .env                  # API key file (not committed)
-- .cache.json           # Stores past Q&A
-- .interview_log.txt    # Log of audio/image interactions
+- IvXAI.py
+- .env
+- .cache.json
+- .interview_log.txt
 
 ---
 
