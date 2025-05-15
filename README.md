@@ -45,3 +45,34 @@
 - Windows API (via `pywin32` and `ctypes`)
 
 ---
+
+## ⚙️ Getting Started
+
+### 1. Install dependencies
+
+- pip install -r requirements.txt
+
+### 2. Create `.env` file
+
+- OPENAI_API_KEY=your_openai_api_key
+
+### 3. Run the app
+
+- python IvXAI.py
+
+---
+
+## 📁 File Structure
+
+- IvXAI.py              # Main script
+- .env                  # API key file (not committed)
+- .cache.json           # Stores past Q&A
+- .interview_log.txt    # Log of audio/image interactions
+
+---
+
+## 👤 Author
+- Made with love (and late nights) by a Malaysian CS student.
+- Feel free to fork, star, or improve!
+
+---
