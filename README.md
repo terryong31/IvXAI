@@ -50,24 +50,15 @@
 
 ### 1. Install dependencies
 
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
 ### 2. Create `.env` file
 
-- OPENAI_API_KEY=your_openai_api_key
+- `OPENAI_API_KEY=your_openai_api_key`
 
 ### 3. Run the app
 
-- python IvXAI.py
-
----
-
-## 📁 File Structure
-
-- IvXAI.py
-- .env
-- .cache.json
-- .interview_log.txt
+- `python IvXAI.py`
 
 ---
 
