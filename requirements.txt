@@ -1,7 +1,5 @@
 mss
-base64
 openai
-PIL
 dotenv
 customtkinter
 pywin32
